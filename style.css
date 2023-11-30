@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#c{
+background-color: aqua;
+width: 400px;
+height: 500px;
+border-radius: 5px;
+margin: 15px;
+border: 2px solid black;
+
+}
+#i{
+    border: 2px solid black;
+    margin: 15px;
+    height: 45px;
+    width:300px ;
+    font-size: largers;
+   margin-left: 45px;
+  
+}
+.b{
+    height: 40px;
+    width: 40px;
+    margin: 8px 45px;  
+font-size: xx-large;
+display: inline-block;
+justify-content: center;
+
+;
+}
